@@ -1,0 +1,15 @@
+1/29: Laravel & Core UI Theme
+	Laravel & UI Install
+		1. 	laravel new songlister
+		2. 	cd songlister
+		3. 	composer require laravel/ui
+		4.	composer install
+		5. 	php artisan ui bootstrap --auth
+		6. 	npm install && npm run dev
+		7.	Update .env with database credentials
+		8.	Create the database
+		9.	php artisan migrate
+
+	CoreUI Install & Setup
+
+
